@@ -1,5 +1,5 @@
 ---
-name: visual-feature-plan
+name: better-plan
 description: Plan a new feature or change in plain, non-technical language with Mermaid diagrams showing how the system works today and how it will work after the change, plus what could break. Use this whenever the user asks to plan, design, scope, or think through a feature, wants to understand how a change affects the system, says they don't know the codebase well, or asks for a plan that is "simple", "visual", "easy to understand" or "not too technical". Input is either a Jira ticket link/key or a written feature description. Prefer this over a file-by-file technical plan unless the user explicitly asks for one.
 ---
 
